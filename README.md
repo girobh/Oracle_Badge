@@ -9,3 +9,4 @@ Oracle Certifications
 - Oracle Cloud Data Management 2022 Foundations Associate
 - Oracle Cloud Infrastructure 2023 Architect Associate
 - Oracle Cloud Infrastructure 2023 Foundations Associate
+- Oracle Cloud Infrastructure 2023 Multicloud Architect Associate
