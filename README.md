@@ -1,6 +1,7 @@
 <h1> Oracle Certifications </h1>
 
 <h3> 2023 </h3>
+<p> - Oracle Cloud Infrastructure 2023 Architect Professional
 <p> - Oracle Cloud Infrastructure 2023 Security Professional
 <p> - Oracle Cloud Data Management 2023 Foundations Associate
 <p> - Oracle Cloud Database 2023 Migration and Integration Certified Professional
