@@ -6,6 +6,7 @@
 <p> - Oracle Cloud Data Management 2023 Foundations Associate
 <p> - Oracle Cloud Database 2023 Migration and Integration Certified Professional
 <p> - Oracle Cloud Infrastructure 2023 Certified DevOps Professional
+<p> - Oracle Base Database Services 2023 Certified Professional
 <p> - Oracle Autonomous Database Cloud 2023 Professional
 <p> - Oracle Cloud Infrastructure 2023 Multicloud Architect Associate
 <p> - Oracle Cloud Infrastructure 2023 Foundations Associate
