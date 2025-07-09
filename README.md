@@ -1,5 +1,8 @@
 <h1> Oracle Certifications </h1>
 
+<h3> 2025 </h3>
+<p> - Oracle Cloud Infrastructure 2025 Foundations Associate
+
 <h3> 2023 </h3>
 <p> - Oracle Cloud Infrastructure 2023 Architect Professional
 <p> - Oracle Cloud Infrastructure 2023 Security Professional
