@@ -2,6 +2,8 @@
 
 <h3> 2025 </h3>
 <p> - Oracle Cloud Infrastructure 2025 Foundations Associate
+<p> - Oracle Data Platform 2025 Foundations Associate
+<p> - Oracle Cloud Infrastructure 2025 Architect Associate
 
 <h3> 2023 </h3>
 <p> - Oracle Cloud Infrastructure 2023 Architect Professional
